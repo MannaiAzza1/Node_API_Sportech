@@ -1,2 +1,2 @@
 node_modules
-auth.config.js
+src/config/auth.config.js
